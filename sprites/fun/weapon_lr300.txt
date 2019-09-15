@@ -1,0 +1,8 @@
+6
+weapon			640 fun/SDmp5	0	0	170	45
+weapon_s		640 fun/SDmp5	0	45	170	45
+ammo			640 fun/a_9mm	0	0	32	32
+ammo2			640 fun/a_ARnade	0	0	32	32
+crosshair		640 fun/mp5	0	0	128	128
+autoaim			640 fun/mp5	0	0	128	128
+

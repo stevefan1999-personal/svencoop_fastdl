@@ -1,0 +1,37 @@
+==============================================================
+
+Objectives:
+
+==============================================================
+
+*Reach Surface, under ANY means possible
+
+Stranded deep in a Military facility, with few options, and only equiped 
+with a standard class 'B' grunt's weaponry. 
+
+-MP5
+-Uzi
+-Shotgun
+-.357 Magnum
+
+You must fight your way to the surface!
+This requires your infiltration squad to work as a team 
+to complete the Mission.
+
+==============================================================
+
+Map Author: Remy LeBeau  
+
+E-mail - funkymonky9@hotmail.com
+AIM - RemyLeBeau73
+ICQ - 97885513
+
+==============================================================
+
+
+
+Changes by Adambean for SC 4.7:
+
+* Tweaked spawn point positions as one would sometimes spawn you inside a crate
+* Added 2 more batteries to the hidden section at the start so 2 players can fully charge
+* Fixed explosive barrels in the canal area from being stuck in the ground

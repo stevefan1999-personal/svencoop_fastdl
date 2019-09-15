@@ -1,0 +1,22 @@
+============================================================================================
+MAP: Apprehension (SVEN Co-op)
+CREATOR: Derek St. Amand (HeAdCrAb KILLA) - headcrab_killa@hotmail.com
+============================================================================================
+
+APPREHENSION - You and a squad of the toughest mercenaries have been sent to a remote area 
+near the Black Mesa complex. A team of scientists has been captured by an elite terrorist
+group. Your mission is to rescue the team and to not let any of them perish. Use your squad 
+and your weapons wisely. This isn't your average rescue mission. Move out!
+
+============================================================================================
+
+ADDITIONAL MAP INFO - 
+
+SIZE: Large
+IDEAL PLAYERS: 1-6
+DIFFICULTY: Moderate
+EDITOR USED: Valve Hammer Editor 3.4
+COMPILE TIME: 10 minutes
+CUSTOM MODELS: Yes - 2 from "Activist" SVEN Co-op map series
+CUSTOM TEXTURES: Yes
+VERSION: Final

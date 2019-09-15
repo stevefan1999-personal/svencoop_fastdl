@@ -1,0 +1,6 @@
+14
+weapon			640 sight/cod6_m200	0	0	170	45
+weapon_s		640 sight/cod6_m200	0	90	170	45
+ammo			640 sight/640hud7	72	72	24	24
+zoom			640 sight/sniper_scope	0	0	512	512
+zoom_autoaim		640 sight/sniper_scope	0	0	512	512

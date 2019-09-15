@@ -1,0 +1,39 @@
+ZOMBIETOWN!!!
+
+Simple horde map with 2 minigames.
+Also really challenging the player by a death room with 4mins
+wait time.
+
+
+Credits:
+
+Sence
+
+Special thanks to Wootguy!
+
+Beta testers:
+
+
+- Cryokeen
+- Rng
+- Trempler
+- Cesar
+- JPolito
+- Tuesday
+- Soctom
+- D4rk F4t3
+
+CHANGELOG LOL:
+
+- Added 3D Skybox.
+- Fixed Weather effects.
+- Fixed Buy vote.
+- Fixed Buy Bottens.
+- Fixed Deathroom.
+- Fixed Minigames.
+- Included new player system.
+- Fixed zombie nodes.
+- Zombies can get you everywhere.
+- Fixed Clip stucks (Not all).
+- Replaced all not used weapon models with null.mdl.
+- Removed cloud sprites.

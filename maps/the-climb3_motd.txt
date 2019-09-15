@@ -1,0 +1,38 @@
+====================================================
+THE-CLIMB3 BY: NYRONIC
+====================================================
+
+Welcome to my 3rd climb map, I hope you enjoy it. :)
+
+====================================================
+THE-CLIMB3 BY: NYRONIC
+====================================================
+
+
+
+- Ported to Sven Co-op by Adam "Adambean" Reece
+
+Originally a custom map for Team Fortress Classic available here:
+https://gamebanana.com/maps/159098
+
+Tips/notes:
+
+* There are no checkpoints! If you fall off you have to climb back up. (Though you do at least get progress messages along your way.)
+* This is an EXTREMELY HARD challenge, and will stress test your ability to manoeuvre in the GoldSrc/Svengine game engine to the very maximum. Expect your first attempt to take at least 2-3 hours. (Hardest of the 3 maps...hugely!)
+* Many jumps will require the strafe jumping technique in straight, curved, and wiggly methods.
+* The rage shortcuts may not be possible at all alone! Best to avoid them for your first run. (Reward is cutting from 45% to 80% distance but probably costs you 10x the time.)
+* You may want (or ask the server owner) to enable Sven Co-op's Teleport plug-in so you can save your position by saying "/s", and restore it by saying "/p" when (not if) you fall.
+* If you do use "/p" while falling you will still fall after restoring, thus you will likely be killed. Wait until you stop falling first.
+* Fall damage is will hurt you badly. Please heal other players when they're hurt. -- Medkits have been added throughout where you will likely need them the most.
+* Press +use (usually "E") to instantly stop moving when you land on something.
+* Please be patient of players in front of you. This isn't a race, so don't try to push past causing others fall off.
+* Although this map may seem impossible throughout it HAS been tested to completion by 3 people. It's just extremely hard.
+
+Differences from the original map:
+
+* Medkits added at the very start so should you fall (and not die) you can begin again with full health. (Probably pointless.)
+* Medkits have been added throughout where you will likely need them the most rather than the laggy constant "global heal" approach.
+* The waterfall push force has been reduced by 4.1% so the two jumps through it work with TFC/SC physics differences.
+* A portal has been added at the end to give you points and let you run through the map again.
+
+If you can beat this map (legitimately, no cheating, etc) you can call yourself really very dexterous indeed on this game engine. (You will also score 10 points for each completion.) -- Very well done to you if you have done this.

@@ -1,0 +1,10 @@
+"buttons/button1.wav" "rng/ruoste/r_button1.ogg"
+"buttons/button2.wav" "rng/ruoste/r_button2.ogg"
+"buttons/button3.wav" "rng/ruoste/r_button3.ogg"
+"buttons/lever1.wav" "rng/ruoste/r_wheel1.ogg"
+
+"doors/doormove1.wav" "rng/ruoste/r_door1.ogg"
+"doors/doormove2.wav" "rng/ruoste/r_door2.ogg"
+"doors/doormove3.wav" "rng/ruoste/r_door3.ogg"
+"doors/doormove4.wav" "rng/ruoste/r_door4.ogg"
+

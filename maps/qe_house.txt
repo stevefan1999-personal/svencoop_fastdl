@@ -1,0 +1,108 @@
+SKYSCRAPER
+
+============================================================================
+Title                   : Sven Cooperative version of SKYSCRAPER
+Filename                : Sven_COOP_Skyscrap.zip
+Maps     		: qe_house, qe_sky1, qe_sky2, qe_sky3, and qe_sky4 
+
+Author                  : Guy Matthew Babin 
+   			  
+Homepage                : www.babins.org/Guy/Interests.htm
+
+Description             : Detailed construction of a possible skyscraper.
+			  Mission:  Search for security keys to progress further
+				    and destroy the Big Momma
+
+
+
+=============================================================================
+
+* Play Information *
+
+Game                    : Sven Coop (Steam Version)
+Minimum Video		: default Open GL
+Cooperative             : Yes! 4 coop starts 
+Deathmatch              : No
+Difficulty Settings     : Hard
+New Graphics            : Yes 
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : From scratch (By looking at the House and mind!)
+Build Time              : Way too damn long 
+Editor(s) used          : retail version of qED (best one to understand!)
+			  Found out about it when I bought the "Unoffical 
+                          QUAKE Level Design Handbook" written by Matt 
+                          Tagliaferri, SYBEX, Inc.  (c) 1997.
+			  Jackhammer v 1.1.500 (64-bit) plus Sven Co-op SDK
+			
+
+Other Software(s)	: Wally (Texture builder)
+			: qWAL (Pak organizer)
+			: Cool Edit Pro
+			: Adobe Photoshop Deluxe 4.0
+
+
+
+Textures		: "Sky" extracted from a pak provided by the late 
+			  Terror Quake 2 modification.
+			: qED textures
+			: Quake 2 textures
+			: Half-Life textures
+			: Unreal Textures from the Terror Quake 2 modification.
+			: Other city and "sky" extracted from a Half-Life 
+			  modicifation called, POKE 646. 
+			: Other textures like the roof, house's exterior, 
+   		          posters, panels, etc. downloaded, manipulated, and 
+			  created by me.
+			: History and pictures of the "Underground Railroad" 
+			  and the Civil War aspects were provided by the 
+			  NationalGeographic.com and other nice links which I
+  			  have forgotten to mention.....
+
+
+Credits			: I credit the late Terror Quake 2 modification for 
+                          the most wonderful and useful textures.  Great job,
+			  guys, whoever you are...
+			: I would also like to credit Q2Workshop and others 
+ 			  for providing tutorials for qED.  Thanks.  They were
+			  very helpful.
+			: I contributed many thanks to the maker(s) of a great
+			  game, POKE 646.
+			: I would personally like also to thank Ikka "Fingers"
+	 		  Keranen for responding a simple e-mail, regarding 
+			  Quake 2 editing.  Although, he couldn't remember 
+			  the exact procedure but his "clues" gave me the 
+			  answer.  Thanks, Ikka, for responding.
+
+
+* How to use this level *
+
+Put the folder "svencoop_addon" under the directory where you have installed Sven Coop.
+(e.g. C:\Steam\SteamApps\common\Sven Co-op)
+
+Setup a server and choose map qe_house as your starting point.
+
+I hope you enjoy it as much as I enjoyed making it!!!
+Thanks for downloading it.
+
+
+
+
+* Copyright / Permissions *
+
+
+This conversion pack is (c) by Guy Matthew Babin 2017.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+
+
+					--END--  

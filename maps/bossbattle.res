@@ -1,0 +1,16 @@
+models/str/items/health_cross.mdl
+models/str/misc/arrow.mdl
+models/str/misc/fan.mdl
+models/str/misc/fusebomb.mdl
+sound/str/items/hp01.txt
+sound/str/items/hp01_pkup.ogg
+sound/str/items/hp02.txt
+sound/str/items/hp02_pkup.ogg
+sound/str/items/hp03.txt
+sound/str/items/hp03_pkup.ogg
+sound/str/items/hp04.txt
+sound/str/items/hp04_pkup.ogg
+sound/str/items/item_spw.ogg
+sound/str/music/kulabonus_loop.ogg
+sound/str/sfx/gameover.ogg
+sound/str/sfx/event07.ogg

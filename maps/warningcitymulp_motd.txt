@@ -1,0 +1,12 @@
+Map´s name: "Warning City: 'I Don't Know Where I Am'"
+Archive: warningcitymulp.bsp
+Construction time: 6 months ( 27 times a month)
+Compile time: 45 minutes
+
+Background of the maps:
+After the mysterious tetransportation, we are now in an unkown city. This city was attacked by aliens (headcrabs, gargantua, shock troopers, etc). The population suffered a metamorphosis by HeadCrabs (the police and military as well). Others suffered a special mutation (gonomes).
+
+OBJECTIVES:
+* Make your way through the streets and nearby school
+
+Map by nleandro ***ARGENTINA***

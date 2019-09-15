@@ -1,0 +1,9 @@
+attachment 0
+bone 4
+spritename sprites/cso/muz_eth.spr
+scale 10
+colorR 155
+colorB 155
+colorG 155
+rendermode 5
+transparency 240

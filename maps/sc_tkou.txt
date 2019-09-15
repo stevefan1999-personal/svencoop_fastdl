@@ -1,0 +1,8 @@
+﻿map name: sc_tkou
+sc_tkou map by 巫术蛊师(Dr.Abc)
+        models by 颓废_心寂(SXLG)
+
+find out the VIP and rescue him.
+don't kill the VIP.
+
+have fun!

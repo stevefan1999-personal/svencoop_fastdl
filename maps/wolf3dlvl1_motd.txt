@@ -1,0 +1,7 @@
+map : wolf3dlvl1 (wolfenstein 3D level 1)
+by : $kud
+http://www.nzfortress.co.nz/skud
+email skud@nzfortress.co.nz
+========================================
+Description :
+First level of the classic game wolfenstein 3d

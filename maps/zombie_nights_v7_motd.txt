@@ -1,0 +1,153 @@
+zombie_nights by the-middleman
+
+Your goal is to survive three nights.
+Just play this map and read the glossary if you have questions.
+
+########
+Glossary
+########
+
+-----------------------------------------------------------------------------
+Antibiotics
+
+When you are infected you will need antibiotics or you will lose health.
+
+If you have antibiotics in your inventory your character will use them
+automatically when needed. After you take antibiotics you are cured from
+infection.
+
+Antibiotics can be found in parachute boxes.
+-----------------------------------------------------------------------------
+Barricade
+
+You can build a barricade in your inventory. You need mechanical tools and
+wood for this. Barricades can be used to block a path for zombies but they
+will not hold forever.
+-----------------------------------------------------------------------------
+Consuming
+
+To survive you must consume water and food regularly. If you are infected you
+will also need antibiotics. 
+
+Your character will automatically consume water, food and antibiotics when
+needed. Just make sure you have enough in your inventory.
+
+If you do not have enough of these goods then you will lose health over time.
+-----------------------------------------------------------------------------
+Electronical tools
+
+Electronical tools can be used to repair some stuff.
+
+Electronical tools can be found in parachute boxes.
+-----------------------------------------------------------------------------
+Fire
+
+A fire is the only way to heal yourself. 
+
+Stand next to the fire and your health will slowly replenish. Get too close
+to the fire and you will get burned.
+
+You can make a fire using your inventory. You will need wood and a matchbox
+for this. 
+
+Fire lasts only a couple of minutes. Be careful as certain predators are
+drawn towards fire.
+-----------------------------------------------------------------------------
+Food
+
+You need to eat food regularly or you will lose health. 
+
+If you have food in your inventory your character will eat automatically when
+needed. 
+
+Food can be found in parachute boxes.
+-----------------------------------------------------------------------------
+Goal
+
+Your goal is to survive 3 consecutive nights. 
+
+One day-night-cycle in game takes 12 real-life minutes. That means it will
+take at least 24 to 36 minutes to win this map.
+
+Each player has his own nights-survived-counter. Every morning the names of
+all players and their number of nights survived will be announced. 
+
+If you die your nights-survived-counter will be reset.
+-----------------------------------------------------------------------------
+Health
+
+You can lose healthpoints from evil zombie-attacks, starvation, infection,
+backstabbing survivors and many other threats.
+
+The only way to heal yourself is to make a fire and then stand next to it.
+-----------------------------------------------------------------------------
+Infection
+
+If you are infected you will need antibiotics or you will lose health. 
+
+If you have antibiotics in your inventory your character will take them
+automatically when needed. After taking them you are cured.
+
+You will get infected if you go too deep into the water. Also sometimes
+an infection will hit you randomly.
+-----------------------------------------------------------------------------
+Inventory
+
+To open your inventory you must look down and hold down the tabulator-button.
+
+In your inventory you can see what items you carry and you can click on them
+to drop them. This way you can share items with other players. 
+
+Note that you can only carry a certain ammount of items. The maximum is 4
+bottles of water, 4 portions of food, 4 packages of antibiotics, 1 stash
+of wood and one matchbox.
+
+In your inventory you can also craft items if you have the required materials.
+Click on the crafting symbol to do so.
+
+For technical reasons only one player can use the inventory at the same time.
+To make sure the inventory does not get blocked by a single player it will
+close itself after 15 seconds and then you must wait a while before you can
+use it again. 
+-----------------------------------------------------------------------------
+Matchbox
+
+You can use a matchbox to make a fire.
+
+Matchboxes can be found in parachute boxes.
+-----------------------------------------------------------------------------
+Mechanical tools
+
+Mechanical tools can be used to repair some stuff. Also you can use mechanical
+tools and wood to build a barricade.
+
+Mechanical tools can be found in parachute boxes.
+-----------------------------------------------------------------------------
+Water
+
+You need to drink water regularly or you will lose health.
+
+If you have water in your inventory your character will drink automatically
+when needed. 
+
+To fill up your water supplies just go to a river or a lake. When you refill 
+you water be sure not to go too deep into the water or you might get 
+infected.
+-----------------------------------------------------------------------------
+Weapons
+
+Weapons can be found in parachute boxes. Do not waste your ammo, you won´t
+find much.
+
+If you go underground you might find better weapons.
+-----------------------------------------------------------------------------
+Wood
+
+You can use wood to make a fire.
+
+Wood can be found at a wood-pile near one of the houses.
+-----------------------------------------------------------------------------
+Zombies
+
+They are everywhere. There is no point in killing them. They just keep coming.
+-----------------------------------------------------------------------------

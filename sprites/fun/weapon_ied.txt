@@ -1,0 +1,4 @@
+2
+weapon			640		fun/ied	0	0	170	45
+weapon_s			640		
+fun/ied	0	46	170	45

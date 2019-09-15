@@ -1,0 +1,51 @@
+=------------------------------------------=
+
+Title: SvenCoop RPG
+	A map for SvenCoop 
+
+Author: DeathBog (deathbawg@hotmail.com)
+
+Type of Map: Coop (although it works in SP)
+
+Recommended players: 2-8
+
+Special Thanks to Dead Man Walking for the tree prefab and textures.
+Thanks to crinity for a few textures.
+Special thanks to svenviking for pointing out bugs.
+=------------------------------------------=
+* Construction *
+
+Editor(s)		: Worldcraft 3.3, PakScape, Walley, SprView,
+			PaintShop Pro, Half-Life Compilation Controller,
+			HL Model Viewer, MilkShape 
+
+New textures: Lots
+New sky:      yes
+New sounds:   No
+New models:   yes
+
+
+
+Known Bugs		: Sometimes when you are going up the stairs to 	
+		pick up the pistol you will teleport without 	
+			getting full ammo. This is a rare occurence, 		
+		however, and can be remedied by picking up a dead 	
+		guy's ammo. 
+
+Compile Time(Approximate):  40 minutes  
+
+Compile Machine		: AMD Duron 750  196 MB RAM
+
+R_speeds                : Map frame rate can drop when many monsters are 	
+		alive in the large areas. To remedy this, simply 	
+		kill the monsters
+       		  
+=========================================================
+
+Description: You are a member of a party of adventurers that must slay the monster-lord that has been ravaging your homeland. You must travel through mountains, caverns, fortresses, dungeons, and castles to seek out the monster and destroy it. Beware the enemies' lairs, however; as long as they remain standing, monsters constantly issue from them. 
+If you defeat the monster lord, you will recieve an unimaginably large horde of treasure and will liberate the legendary sword of Sarticulus. 
+
+Miscellaneous: This map is excellent for 3-6 players. There are 3 shorcuts in the map. 
+One is opened halfway through the caves: turn left, swim through the water, and open a grate under the bridge in the first area.
+Another is opened at the end of the caverns; climb up a rop on the left and break the barrel.
+The last one is at the end of the second tunnel, after the dungeons. Step on the rop coil to let down the rope, then climb up it when in need.

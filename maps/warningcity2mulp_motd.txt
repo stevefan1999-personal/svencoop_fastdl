@@ -1,0 +1,15 @@
+Map´s name: "Warning City 2: In the school"
+Archive: warningcity2mulp.bsp
+Construction time: 6 months ( 27 times a month)
+Compile time: 45 minutes
+
+Background of the maps:
+After the mysterious tetransportation, we are now in an unkown city. This city was attacked by aliens (headcrabs, gargantua, shock troopers, etc). The population suffered a metamorphosis by HeadCrabs (the police and military as well). Others suffered a special mutation (gonomes).
+
+OBJECTIVES:
+* Make your way across the school
+* Use the keyboard nearby to start unlocking the doors
+* Fight versus the GONOMETANK!!!
+* Run away through the brown doors
+
+Map by nleandro ***ARGENTINA***

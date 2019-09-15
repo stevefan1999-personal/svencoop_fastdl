@@ -1,0 +1,14 @@
+gfx/env/shanghai2bk.tga
+gfx/env/shanghai2dn.tga
+gfx/env/shanghai2ft.tga
+gfx/env/shanghai2lf.tga
+gfx/env/shanghai2rt.tga
+gfx/env/shanghai2up.tga
+maps/shanghai.cfg
+maps/shanghai_harbor_readme.txt
+maps/shanghai_motd.txt
+maps/shanghai_skl.cfg
+maps/shanghai.res
+models/shanghai/icky.mdl
+models/shanghai/ickyT.mdl
+shanghai.wad

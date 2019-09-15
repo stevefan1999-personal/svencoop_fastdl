@@ -1,0 +1,58 @@
+Kyper Kuutio: Phobos Lab X-26 Incidents
+
+Map: RNG
+Special Textures like titles and stuff: RNG
+"Music": RNG
+Model hacks: RNG
+Betatest: Keen/Cryokeen, Lemonsoda, Poka, Sence, Streamfox, cSMG, Turrican, Cocyx The Skeleton, Rodifan
+
+Version 2. Sven 4.5 Official. Re-release 18.3.2018
+
+- Remastered original "music"
+- Ripented maps: changing numerous special textures and other fixes and tweaks
+while preserving as much of 'original' content
+- Newer kyper_assistant model
+- Re-arranged content
+
+Original release: September 2, 2010
+
+This sure as hell aint the fucking shit "final" version.
+
+
+THIS MAP REQUIRES ATLEAST 2 PLAYERS
+
+STORY AND HINTS (The original, and excessively dumb story)
+
+2040
+
+Phobos, Lab X-26 D
+
+Your special scientist team has received information of some nuklear accident happening in main Deimos station.
+Kypervortigaunts analyzed the base and there was portal opened to Lab X-26 Phobos, X-26 has then evacuated after
+huge battle with incoming mysterious zombifications and psi-emissioned security staff.
+
+There is only one weapon to shut down the malfunctioned portal system: The Kyperior Cube.
+It is a indestructible, harshly black and white, big but lightweight mechanic cube which can open security locked doors,
+with its color symbol their locks. It can also take control of the whole main Phobos and Deimos base,
+when input in portal security locks. Also your later gonna have a Kyper Assistant helping your mission, "Kyper Assistant"
+is a Biogenetic android species which mostly live in Phobos and Deimos labs and are originated from Xen.
+They can telepathically open doors and activate systems where the Cube doesnt work.
+
+Your team is armed with high-class heavyweaponry and sent to Lab X-26.
+
+Small hints:
+
+-Hold your USE key to to lift the cube, this is a new but rarely noticed 4.0 addition which allows you to lift the box up and also throw it.
+
+-Cube and Kyper Assistant has to be escorted within all the time when moving forward to new places,
+dont forget them.
+
+-When you have to use your mace to break something special, the mace is your crowbar
+
+-Flash the cube to everything which has a black & white checkers same as the cube has
+
+-You may find the Kypercrossbow, it can kill mostly anything with one shot
+
+-Other highly deadly weapon is the Experimental Mininuke, use it with caution or you easily kill yourself
+
+

@@ -1,0 +1,9 @@
+attachment 2
+bone 4
+spritename sprites/cso/muzzleflash77.spr
+scale 10
+colorR 155
+colorB 155
+colorG 155
+rendermode 5
+transparency 155

@@ -1,0 +1,6 @@
+6
+weapon			640		bdsc_custom/mp7p90		0	91	170	45
+weapon_s		640		bdsc_custom/mp7p90		0	137	170	45
+ammo			640		640hud7		144	60	24	24
+crosshair		640		crosshairs	0	48	24	24
+autoaim			640		crosshairs	48	72	24	24

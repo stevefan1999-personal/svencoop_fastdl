@@ -1,0 +1,8 @@
+Breakout Extended by Chris Silcock
+
+Contact: chris_silcock@hotmail.com
+
+Hints/tips: Look for the keyboards if you are stuck, also look for anything
+that may be breakable for some secrets. ;)
+
+This is an extended (and refined) version of my map Breakout.

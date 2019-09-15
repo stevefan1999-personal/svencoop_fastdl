@@ -1,0 +1,14 @@
+---------------------------------------------------------
+             Map By GForce
+---------------------------------------------------------
+       www.clan-gameover.com.ar
+
+Credits:
+Mapper: GForce
+
+Models: Reden
+               NicKnot
+
+Tester: Cyrax
+
+Textures: scmapdb, Half-Life.

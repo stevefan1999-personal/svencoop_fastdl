@@ -1,0 +1,15 @@
+Title Map: "The Salvation 2: The Scary Rooftops"
+Map Name: llampyalto.bsp (name by a classmate XD)
+Construction Time: 5 months
+Compile time: 15 minutes
+
+Background of the maps:
+After leaving the mysterious city, the escape train crashed and you are aground in another city, but this one is the most infected city in the world. It's like another Warning City but much more dangerous.
+
+OBJECTIVES:
+* Make your way through the building rooftops (at first empty)
+* Activate the bomb near the antenna
+* Arrive at the dangerous building infested with aliens
+* Touch the button to open the exit door
+
+Created by Nleandro *Argentina*

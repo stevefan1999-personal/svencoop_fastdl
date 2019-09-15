@@ -1,0 +1,24 @@
+Ruoste
+
+DEMO
+
+Parts II & III: Laboratorical Storage Sections
+
+-------------------------------------------------------
+
+Mars, 2045
+
+In the modern laboratory complexes near Cydonia, lies a mystical base
+which had cut itself from rest of the scientific research laboratories long ago.
+Many people think the specific lab sektor was invaded by unknown force, and
+the whole complex being turned into militarizing and altering local wildlife.
+Some beliefs lean towards even altering captured science team.
+
+Your agent team enters the complex to investigate and neutralize the threat
+which exists in this lab sektor. Armed only with special Gauss magnum.
+
+-------------------------------------------------------
+
+RNG - Map, music, sound, models, some special textures
+
+Alien Swarm Team - most of original sounds that are remixed to this map

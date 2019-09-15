@@ -1,0 +1,4 @@
+10
+weapon			640 sight/cod8_ak47	0	0	170	45
+weapon_s		640 sight/cod8_ak47	0	90	170	45
+ammo			640 sight/640hud7	72	72	24	24

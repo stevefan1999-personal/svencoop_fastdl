@@ -1,0 +1,6 @@
+10
+weapon		640 fun/ppsh41	0	90  170	45
+weapon_s		640 fun/ppsh41s	0	90	170	45
+ammo		640 640hud7	0	60	24	24
+crosshair		640 csgo/crosshairs	256	0	256	256
+autoaim		640 csgo/crosshairs	0	72	24	24

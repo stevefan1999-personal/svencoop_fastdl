@@ -1,0 +1,17 @@
+anzymut.wad
+roux.wad
+gfx/env/citynightBK.bmp
+gfx/env/citynightBK.tga
+gfx/env/citynightDN.bmp
+gfx/env/citynightDN.tga
+gfx/env/citynightFT.bmp
+gfx/env/citynightFT.tga
+gfx/env/citynightLF.bmp
+gfx/env/citynightLF.tga
+gfx/env/citynightRT.bmp
+gfx/env/citynightRT.tga
+gfx/env/citynightUP.bmp
+gfx/env/citynightUP.tga
+models/turr/scicotic.mdl
+sound/aemos/scicotic2.txt
+sprites/votemap/gamesaba.spr

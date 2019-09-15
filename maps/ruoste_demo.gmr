@@ -1,0 +1,14 @@
+"models/v_desert_eagle.mdl" "models/rngweapons/v_rpistol.mdl"
+"models/w_desert_eagle.mdl" "models/rngweapons/w_rpistol.mdl"
+"models/p_desert_eagle.mdl" "models/rngweapons/p_rpistol.mdl"
+
+"models/v_crowbar.mdl" "models/rngweapons/v_rmelee.mdl"
+"models/w_crowbar.mdl" "models/rngweapons/w_rmelee.mdl"
+"models/p_crowbar.mdl" "models/rngweapons/p_rmelee.mdl"
+
+"models/v_medkit.mdl" "models/hunger/v_syringe.mdl"
+"models/p_medkit.mdl" "models/hunger/p_syringe.mdl"
+
+"models/barnabus.mdl" "models/rngstuff/romutus/junkbarney.mdl"
+"models/barney.mdl" "models/rngstuff/romutus/junkbarney.mdl"
+"models/hgrunt.mdl" "models/rngstuff/romutus/junkgrunt.mdl"

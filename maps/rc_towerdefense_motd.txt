@@ -1,0 +1,76 @@
+RC's Towerdefense!
+
+Map by R.C. - 2016
+
+
+
+Special thanks goes to:
+
+AlexCorruptor - for compiling the map several times
+sub357 - for hosting a testserver several times
+
+
+Testers:
+
+AlexCorruptor
+sub357
+R.C. 8-)
+
+============================================================
+
+! ! ! IMPORTANT ! ! !
+
+This map has some kind of noob protection:
+Right teleporter leads the "noob room".
+Left teleporter leads to the towerdefense area,
+press E (Use) to get teleported.
+
+! ! ! IMPORTANT ! ! !
+
+============================================================
+
+This map is heavily inspired by Nih's awesome turretfortress,
+which got too easy for us and i decided to make this map.
+It is way harder and has less random events, but more tactical options.
+
+============================================================
+
+
+1. General
+---------------
+16 waves of monsters are trying to pass the 4 sectors and reach the end.
+Waves have at least 16 monsters. Monsters per wave and their HP increases
+in later waves and higher difficulty.
+
+There are 64 building spots, 16 in each sector.
+Fill them with structures to prevent the monsters from reaching the end.
+
+If more that 20 monsters reach the end of the map, you lose.
+
+
+
+2. Buildings
+---------------
+
+You can build structures by spawning a box (costs credits) of its type and
+pushing it onto a free building spot. You can demolish a structure by pressing
+the button next to the spot.
+
+
+2.1 Turret
+Regular turret that shoots enemies. Weak but cheap.
+
+2.2 Blue barrier
+Earns you 0.05 credits for each monster passing it.
+Very important, since its the only way of getting credits.
+
+2.3 Green barrier
+Does similar damage as the turret does, but will attack all
+passing targets, no matter how many of them are there.
+
+2.4 Yellow barrier
+Teleports passing enemies back to their original spawnpoint.
+What could that be useful for? Cooldown 60 seconds.
+
+2.5 Red barrier
+Instantly kills passing enemies. Cooldown 120 seconds.

@@ -1,0 +1,18 @@
+============================================================================================
+MAP: sc_tension (SVEN Co-op)
+AUTHOR: Derek St. Amand (HeAdCrAb KILLA) - headcrab_killa@hotmail.com
+============================================================================================
+
+TENSION - ...is building at your current position. The base you have been teleported to is extremely hostile. Radar readings show 4 major threats in the area that must be eliminated. Your objective is to nuetralize the 4 threats to secure the base. The control room above the spawn room can be used to keep track of threats destroyed. Once all threats have been eliminated, your mission will be successful.
+
+============================================================================================
+
+ADDITIONAL INFO -
+
+NAME: Tension
+SIZE: Medium/Large
+IDEAL PLAYERS: 1-6
+DIFFICULTY: Moderate
+EDITOR USED: Hammer 3.4
+TOTAL COMP. TIME: 1 Hour
+(2005)

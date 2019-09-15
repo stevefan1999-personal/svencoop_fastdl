@@ -1,0 +1,3 @@
+10
+weapon		640 	fun/alla		0	0	170	45
+weapon_s		640 	fun/allas		0	0	170	45

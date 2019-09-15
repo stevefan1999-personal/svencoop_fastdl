@@ -1,0 +1,20 @@
+SVENUNKNOWN'S BATTLEGROUNDS (LOL)
+---------------------------------
+ (Intentionally shitty PvP map)
+
+OBJECTIVE:
+- The Last Man Standing wins, stay alive and kill the others
+
+HINTS:
+- Every spawn gets a slow vehicle, 9 fast vehicles are available in the center of the map
+- Be careful with vehicles, they can smash you to death while driving (drive responsibly)
+- The moving walls are going to kill you, don't even try to get pushed by them
+- You have 2 armor points while holding the frying pan (use to your advantage)
+- Weapons deal way less damage than in normal Sven Co-op
+- After ~3 minutes only a small area is available and the players HP get reduced by 1 every 3.75 sec until they are dead
+- At the end you can choose to vote to play another round
+
+SORRY:
+- PvP in Sven Co-op only supports up to X players so it's limited, the remaining players can only observe (which is fun too)
+
+Also the map creator never played PUBG.

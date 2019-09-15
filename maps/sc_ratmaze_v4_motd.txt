@@ -1,0 +1,69 @@
+Work as a Team to find the way out from this Maze
+
+Recommended: 3-5 Players
+Single Player: Could be a little frustating
+
+Info: This Map is a full Remake from sc_complex1(by butcher) uploaded to SvenCoopCentral.com (date: February 10, 2008)
+
+Comments/Bugs/Ideas: butcher.cs@gmail.com
+
+
+Changelog
+
+01/06/2012 - Version 2
+
+- Improved: Sound Quality.
+- Reduced: Size of the Music.
+- Fixed: Some textures of steps.
+- Enabled: Respawn of some items.
+- Reduced: Volume of noise sounds.
+- Changed: Helpful Sprays.
+- Added: Extra Help for alert players.
+- Fixed: Ammo entity (didnt appear).
+- Fixed: Stop music, before you get into the room.
+- Changed: Place of detotation, so player dont get into pieces.
+- Changed: Block texture, so player can see the numbers.
+- Changed: Color of some flare, for orientation.
+- Fixed: Textures in general.
+- Added: More help for Player.
+- Added: Signs to the Entrance of X place.
+- Increased: Health of Headcrab & Houndeye at 100%.
+- Disperse some items at the final.
+- Changed: Place of the Sprays, so player can get easy to the exit.
+- Removed: Laser, and disperse the others.
+- Added: Rats.
+- Fixed: Rats triggering all.
+- Improved: More brightness to the flares.
+- Added: More flares on the X path.
+- Added: ARGrenades.
+- Added: More Handgrenades.
+- Added: Ammo Boxes.
+- Fixed: Textures of the floor.
+
+
+01/19/2012 - Version 3
+
+- Decreased: Damage of traps.
+- Decreased: Health of some Monsters.
+- Increased: Health of others.
+- Reduced: Volume of Music and Sounds.
+- Deleted: Handgun.
+- Added: Desert Eagle.
+- Added: More Guns.
+- Changed: Place of some weapons.
+- Added: New meeting point.
+- Added: New guns bonus
+- Added: Help to find the Secrets.
+- Added: Grass all over the map to lead the player at start.
+
+
+01/26/2012 - Version 4
+
+- Fixed: 2nds Spawns.
+- Added: More monsters.
+- Changed: Place of some others.
+- Added: Batterys.
+- Added: Lots of guns at crawl Maze.
+- Fixed: Items that didnt apear.
+- Added: New colors to the flares.
+- Improved: Final is shorter.

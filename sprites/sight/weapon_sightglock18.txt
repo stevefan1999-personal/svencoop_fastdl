@@ -1,0 +1,4 @@
+3
+weapon			640 sight/cod8_g18	0	0	170	65
+weapon_s		640 sight/cod8_g18	0	90	170	65
+ammo			640 sight/640hud7	48	72	24	24

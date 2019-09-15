@@ -1,0 +1,13 @@
+halflife.wad
+liquids.wad
+spraypaint.wad
+xeno.wad
+cached.wad
+decals.wad
+fonts.wad
+gfx.wad
+sprites/e-tele1.spr
+sprites/smokepuff.spr
+maps/Sparrows_op_kubra.cfg
+maps/Sparrows_op_kubra.res
+maps/Sparrows_op_kubra_motd.txt

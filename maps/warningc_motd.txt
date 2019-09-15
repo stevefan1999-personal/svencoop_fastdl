@@ -1,0 +1,12 @@
+Title Map: "The Salvation: The Dark City"
+Map Name: warningc.bsp
+Construction Time: 5 months
+Compile time: 15 minutes
+
+Background of the maps:
+After you go out the misterious city, the escape train crashed and you are aground in other city but is the most infected city of world. It's a other warning city but more dangerous that the before one.
+
+CURRENT GOALS:
+Cross the failed brigde, cross the millitary base (invaded for Zombies and Gonomes), go into the dark building and call the elevator for go out ground.
+
+Created by Nleandro *Argentina*

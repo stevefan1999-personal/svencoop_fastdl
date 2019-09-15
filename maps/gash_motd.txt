@@ -1,0 +1,25 @@
+--- Gash V.2---
+
+Author: ><((((('> PointDexter-KaosCraft
+
+------------
+
+You and your team have been working
+undercover in this complex. Your mission
+was to hijack info about their latest
+breakthrough in robotics, the RoboGrunt.
+
+However, you blew your cover and had to
+flee from the security forces. Now you find
+yourself near the surface, and have established
+a radio connection with you employer.
+
+You are instructed to:
+
+-Download data about the RoboGrunts
+
+-Destroy all RoboGrunts
+
+-Escape the complex
+
+Good luck, team.

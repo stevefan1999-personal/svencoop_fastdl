@@ -1,0 +1,28 @@
+========================Shanghai Harbor=========================
+
+
+Background:
+
+You are a Special Operations Executive (SOE) of the United States special forces.
+
+
+Mission Info:
+
+We received word from our agents in China that a document proving a link between 
+the Chinese Goverment and the maffia can be found within the harbor of Shanghai 
+where the maffia's base is located. 
+
+There have been some strange reports of mutated creatures throughout
+the area, possibly the result of genetic experiments by the maffia. Be careful.
+
+
+Objective:
+
+-Locate the secret passage in the Villa and retrieve this document
+
+-Locate any Bosses/leaders in the area and kill them
+
+-Escape the harbor
+
+
+Good luck!

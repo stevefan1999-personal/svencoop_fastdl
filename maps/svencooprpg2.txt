@@ -1,0 +1,55 @@
+
+Title: 
+O==II=========>  SvenCoop RPG 2  <=========II==0 
+	
+
+Author: DeathBog (deathbawg@hotmail.com)
+
+Type of Map: Cooperative 
+
+Recommended players: 3-12
+
+Thanks to Dead Man Walking and Shaithis for textures.
+
+Thanks to Another1_Real, NivekDev, and Mark for the gamerules entity suite.
+
+Thanks to Law Enforcer for the Flintlock pistol model
+
+Thanks to Chalupamonk for the skybox textures
+=------------------------------------------=
+* Construction *
+
+Editor(s)		: Worldcraft 3.3, PakScape, Walley, SprView,
+			PaintShop Pro, Half-Life Compilation Controller,
+			HL Model Viewer, MilkShape 
+
+New textures: Yes
+New sky:      Yes
+New sounds:   No
+New models:   Yes
+
+Known Bugs		: None
+
+Compile Time(Approximate):  1 hour  
+
+Compile Machine		: AMD Duron 750 MHz  128 MB RAM
+
+R_speeds                : Computer resources may be taxed in the large areas. To remedy this, simply upgrade your computer
+       		  
+=========================================================
+With the death of the Monster-Lord Dalamarus achieved and the chaotic havoc wreaked by his minions a bitter memory, Giram once again prospered in an age of peace. Friendly relations were maintained between the provinces, with Militvorn deriving even more powerful divine right through the legendary sword of Sarticulus. The party of adventurers who unbelievably slew the Monster-Lord lapsed into humble oblivion after the sparkling ceremony which bestowed the holy blade upon Grylion, Dalamarus's heir. However, behind the gregarious celebration and fountaining wine, some still remained wary. How could such a small band of fighers destroy such a powerful force of evil? No one seemed to care...
+
+...Events became threatening soon after Grylion first wielded the sword of Sarticulus. He began exercising uncommon amounts of power in the politics of Giram, showing surprising tolerance toward the small bands of monsters that still remained in hiding. The Militvorn army was almost totally disbanded; only a small cadre of Silver Paladins remained in service for the direct protection of Grylion. As the High Clerist plummeted into insanity, so did his body guards. The sword of Sarticulus's searingly bright gold and platinum faded to an evil red and black. Evidently, the blade was possessed, and the demon had spread to the keeper. Actually, this evil sabre was the same that had possessed Dalamarus several months before. The Evil Circle-the gods of Caligation, Corrosion, and Corruption-had focused their combined spirit into the forging of this sword, and sent it to Dalamarus through arcane methods. Dalamarus held the weapon in secret, feeding off of its energies, unknowing that it was the Evil Circle he was worshipping. As the corrupt deities began to solidify their sway over him, Dalamarus entreatied the gods of the Divine Pantheon for aid. What aid they could give he was given, and to a large degree full occupation of Dalamarus's psyche was prevented. Thus, the victory that was exacted over him was a hollow victory if one at all. However, Grylion never had the will power of Dalamarus. He submissively submerged himself in the cold of evil. Now, without any means of protection, Giram stands at the mercy of the dread armies of Caligation, Corrosion, and Corruption...
+
+...Your land of Giram lies in dire peril. The fate of the human race is in the balance. You are but a part of a band of brave adventurers that is staring deep into the frigid eye-sockets of Death. You must make your way through the Town, the DeathBog, the Mausoleum, and the Fortress, engaging and defeating the armies of Caligation, Corrosion, and Corruption, ever towards Grylion's abominable visage...
+
+...You may now choose a player class. Each must be used in concert to defeat the evil hordes. If melee carnage and baths in blood are your cup o' tea, choose the Warrior. If you prefer to slay your enemies from afar with well-aimed missiles, choose the Archer. Those with interest in the arcane and application of the magic arts should choose the Wizard. If there is a philanthropist in your soul, and you desire only to heal your comrades, choose the Cleric...
+
+Good luck.
+
+=========================================================
+Notes: 
+I have spent countless hours putting all of my creative energies into this map. I hope you enjoy it and decide to continue your worship of the DeathBog. 
+This text file also applies to svencooprpg3.
+
+All models, textures, and ideas used in this map are open-source; feel free to use them in your own Worldcraftian creations!

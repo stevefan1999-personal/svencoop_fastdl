@@ -1,0 +1,4 @@
+3
+weapon		640 fun/sururpg	0	0	170	45
+weapon_s		640 fun/sururpg	0	0	170	45
+ammo		640 fun/sururpga	0	0	32	32

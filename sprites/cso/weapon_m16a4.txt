@@ -1,0 +1,6 @@
+5
+weapon			640 cso/m16a4	0	0	170	45
+weapon_s		640 cso/m16a4	0	45	170	45
+ammo			640 cso/640hud7	0	96	24	24
+crosshair		640 cso/crosshairs	256	0	256	256
+autoaim			640 cso/crosshairs	0	72	24	24

@@ -1,0 +1,9 @@
+Big Cave 2 - Beta 1
+
+I have wanted to build a level build into a hill side, or cave for many years after seeing what the Terrain Tools in Source can do, I was never able to build anything I liked in Source, and found the original big cave map on my hard drive after looking through some old Counter-Strike levels I made in the late 1990s.
+
+This is a beta, and some things are not finished (take the first spawn outside as an example), but your objective is that you need to find an alternative route to the "Black Mesa Transport Hub".
+
+I am very happy with the basics of this map, but depending on how things play the map might be adjusted, things removed, or added to match the game play style on both stock servers, and the ones running mods such as XP/RPG Mod.
+
+amckern

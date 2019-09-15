@@ -1,0 +1,4 @@
+10
+weapon		640 fun/tpoker	0	0	170	45
+weapon_s		640 fun/tpokers	0	0	170	45
+ammo		640 fun/tpokera	72	72	24	24

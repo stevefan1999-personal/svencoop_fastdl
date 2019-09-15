@@ -1,0 +1,55 @@
+Welcome to The Water Works
+By Adam Reece
+
+Last Updated: 12th December 2008
+Version: Beta
+
+A lot of work goes in to producing a map and it's content. Please do not steal content from this
+map without permission from the original creator. If you ask nicely we normally say yes :)
+
+
+.: Description & Objectives :.
+
+Xen aliens that escaped from the Black Mesa disaster have taken over a public sewer system and
+poisoned the treated water going back out to the public, killing anyone who drinks public water.
+
+Your squad was sent in to stop this happening. However when your team went down what was the only
+unguarded enterance left to stop the Xen, you all ended up trapped in a small maintenance room below
+the car park. The Xen has become aware of your presence and is ready to stop you terminating their
+plans.
+
+You must reach the treatment centre and stop the Xen aliens from poisoning the fresh water any
+further then escape the sewer system. Be prepared for a rough getaway!
+
+Top tip: If you find breakables aren't breaking try using explosives to destroy them instead.
+Explosives are only found in 3 rooms through the whole map so look around.
+
+
+.: Credits :.
+
+Map created by Adam Reece.
+http://www.reece-eu.net
+
+"LM City" sky map by Der Kommissar at Crinity.
+http://crinity.planethalflife.gamespy.com/
+
+BMT for giving me the idea to use sprites above key objectives, and many other ideas for
+improvement. Go play his new incoming map! :D
+
+
+.: Testers :.
+
+Ultra mega super thanks to all the Sven Co-op 4 team for letting me test my map on the 4.0 alpha
+and beta code through our SVN repository. Thanks to those of you who tested the map for me too.
+http://www.steamcommunity.com/groups/SvenCoop -- #SvenCoOp at GameSurge.
+
+
+.: Thanks :.
+
+Thank you for downloading and playing this map, I hope you enjoy playing this map as much as I did
+creating it.
+
+Thanks to all the members and staff at Multiplay's Sven Co-op community for supporting this map.
+http://sc.multiplay.co.uk/ -- #mpuksc at QuakeNet.
+
+Adam Reece [adam@reece.myzen.co.uk]

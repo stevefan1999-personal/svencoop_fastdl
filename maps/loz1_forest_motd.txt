@@ -1,0 +1,46 @@
+The Legend of Zelda: Ocarina of Time
+Conversion by w00tguy123
+
+-----------------------------------------
+Kokiri Forest
+-----------------------------------------
+
+Hints/Information:
+
+-Before entering the Deku Tree, you should get more 
+lives and items. 
+
+-You can get extra lives at the fairy fountain.
+
+-Lives, rupees, and items carry over to the next level.
+
+-You can't kill Deku Scrubs with a melee
+weapon. You need Deku Nuts or a Slingshot.
+
+-Once you run out of lives, you have to restart
+the level (if the majority wants to try again).
+
+-Boulders and certain walls can only be blown up
+with Deku Nuts.
+
+-There are enough rupees in the level to buy all of
+the items in the shop (you can't buy arrows, though).
+
+-----------------------------------------
+Special thanks to:
+-----------------------------------------
+
+Sence - Helped me with animations+entities+errors.
+
+Misfire - Used his server for public testing of these maps.
+
+Qwerty - Mapped a big section of Lost Woods. Linked me
+to tools and resources (ROM debug stuff, fancy music).
+
+Music is by ZREO (Zelda Reorchestrated)
+http://www.zreomusic.com/z5-archive
+
+
+
+
+

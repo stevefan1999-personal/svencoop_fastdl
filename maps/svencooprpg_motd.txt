@@ -1,0 +1,12 @@
+Sven-Coop RPG 
+
+	Created by the DeathBog
+
+You are a member of a party of adventurers who must slay the monster-lord. Mountains, caverns, fortresses, and dungeons all stand in your way.
+
+If you defeat the monster-lord, you will recieve an unimaginably large treasure horde and will liberate the legendary sword of Sarticulus.
+
+By defeating particularly difficult enemies along the way, the gods will reward you with enhanced weaponry. 
+
+Choose a class:
+The long-range psionicist for precision attacks or the sword-weilding warrior for brute force.
